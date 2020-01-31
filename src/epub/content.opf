@@ -37,7 +37,7 @@
 		<dc:description id="description">John F. Kennedy delivered his inaugural address January 20th, 1961.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Inaugural Address&lt;/i&gt; of John F. Kennedy is considered to be one of the greatest inaugural's ever given. Kennedy also has the distinct honor of giving the first inauguration on color television. The inauguration was also the first in which a poet, Robert Frost, had participated.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Inaugural Address&lt;/i&gt; of John F. Kennedy is considered to be one of the greatest inaugural addresses ever given. Kennedy also has the distinct honor of giving the first inauguration on color television. The inauguration was also the first in which a poet, Robert Frost, had participated.&lt;/p&gt;
 			&lt;p&gt;This edition presents the inauguration in its entirety and makes for an easy read..&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
